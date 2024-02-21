@@ -8,6 +8,11 @@ Tjun Hoh
 
 ---
 
+![w:500 h:550](images/chatgpt_generatedimage.webp)
+*DALL·E*
+
+---
+
 # Why Python?
 
 ---
@@ -242,9 +247,13 @@ Tjun Hoh
 
 ### LLMs
 
-* **e-commerce chatbots** &rarr; [Improving Customer Support: LangChain based Helpdesk & LLM-Powered AI Chatbot](https://www.uvdesk.com/en/blog/langchain-based-helpdesk-llm-powered-ai-chatbot/)
-* **Social media bots** &rarr; [AutoTweeter](https://www.bluelabellabs.com/blog/autotweeter-langchain-gpt4-ai-twitter-bot/)
+* **UVdesk** &rarr; [Improving Customer Support: LangChain based Helpdesk & LLM-Powered AI Chatbot](https://www.uvdesk.com/en/blog/langchain-based-helpdesk-llm-powered-ai-chatbot/)
+* **BlueLabel** &rarr; [AutoTweeter](https://www.bluelabellabs.com/blog/autotweeter-langchain-gpt4-ai-twitter-bot/)
 * **Supply chain analytics** &rarr; [Leveraging LLMs with LangChain for Supply Chain Analytics](https://towardsdatascience.com/leveraging-llms-with-langchain-for-supply-chain-analytics-a-control-tower-powered-by-gpt-21e19b33b5f0)
+
+### Automation
+
+* **Google DeepMind** [Safety-first AI for autonomous data centre cooling and industrial control](https://deepmind.google/discover/blog/safety-first-ai-for-autonomous-data-centre-cooling-and-industrial-control/)
 
 ---
 
@@ -255,10 +264,14 @@ Tjun Hoh
 * **Wayfair** &rarr; [Delivery-Date Prediction](https://www.aboutwayfair.com/careers/tech-blog/delivery-date-prediction)
     > what we had to do to cut the gap between promised and realized delivery times in half
 
+---
+
 ### Predictive analytics
 
 * **Zalando** &rarr; [Deep Learning Based Forecasting: A Case Study from the Online Fashion Industry](https://arxiv.org/pdf/2305.14406.pdf)
     > Demand forecasting in the online fashion industry is particularly amendable to global, data-driven forecasting models
+* **IBM** &rarr; [Reinforcement Learning: The Business Use Case](https://medium.com/ibm-data-ai/reinforcement-learning-the-business-use-case-part-2-c175740999)
+    > makes financial trades using the power of reinforcement learning
 
 ---
 
@@ -269,6 +282,13 @@ Tjun Hoh
 * **Etsy** &rarr; [How We Built a Multi-Task Canonical Ranker for Recommendations at Etsy](https://www.etsy.com/uk/codeascraft/how-we-built-a-multi-task-canonical-ranker-for-recommendations-at-etsy)
     > we provide buyers recommendations to help them find that one special item that stands out to them
 
+---
+
+### Fraud detection
+
+* **BlaBlaCar** &rarr; [How we used machine learning to fight fraud at BlaBlaCar](https://medium.com/blablacar/how-we-used-machine-learning-to-fight-fraud-at-blablacar-part-1-3b976c9dcdf6)
+    > BlaBlaCar has implemented various fraud detection and fraud management systems, some of which include machine learning algorithms
+    
 ### Image recognition
 
 * **Etsy** &rarr; [From Image Classification to Multitask Modeling: Building Etsy’s Search by Image Feature](https://www.etsy.com/codeascraft/from-image-classification-to-multitask-modeling-building-etsys-search-by-image-feature)
@@ -283,10 +303,16 @@ Tjun Hoh
 * **Dropbox** &rarr; [Optimizing payments with machine learning](https://dropbox.tech/machine-learning/optimizing-payments-with-machine-learning)
     > At Dropbox, we found that applying machine learning to our handling of customer payments has made us better at keeping subscribers happily humming along.
 
-### Fraud detection
+---
 
-* **BlaBlaCar** &rarr; [How we used machine learning to fight fraud at BlaBlaCar](https://medium.com/blablacar/how-we-used-machine-learning-to-fight-fraud-at-blablacar-part-1-3b976c9dcdf6)
-    > BlaBlaCar has implemented various fraud detection and fraud management systems, some of which include machine learning algorithms
+# Theoretical advancements
+
+### New python libraries:
+* [DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM Workflows](https://arxiv.org/abs/2402.10379)
+* [Simplifying Hyperparameter Tuning in Online Machine Learning -- The spotRiverGUI](https://arxiv.org/abs/2402.11594)
+* [MultiMedEval: A Benchmark and a Toolkit for Evaluating Medical Vision-Language Models](https://arxiv.org/abs/2402.09262)
+* Et cetera
+
 ---
 
 # The End?
